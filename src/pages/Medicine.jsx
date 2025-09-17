@@ -1,5 +1,5 @@
 import React from 'react';
-import "../styles/Medicine.css"
+import "../styles/medicine.css" {/* make the medicine.css capital*/}
 
 const Medicine = () => {
     return (
